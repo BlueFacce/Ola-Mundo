@@ -16,7 +16,7 @@ _*Treinando linguagem MarkDown*_
 
 ## Treino
 
-PP### Treino
+### Treino
 
 # Lista Numerada 
 
@@ -47,6 +47,13 @@ PP### Treino
 - [ ] Teste
 - [ ] Teste
 
+Num | Nome | Nota
+---|---|---
+1 | Teste | 9,5
+2 | Teste | 5,5
+3 | Teste | 6,7
+
+🚀🚀🚀
       
 ![OctoCat BlueFacce Definitivo](https://github.com/user-attachments/assets/7d40e53d-d27c-46f6-b912-1d5e6486f529)
 
